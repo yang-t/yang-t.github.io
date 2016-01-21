@@ -9,11 +9,11 @@ body {
 
   // Chrome, Firefox
   display: flex;
-  align-items: center;
+  align-items: left;
 
   // Safari
   display: -webkit-box;
-  -webkit-box-align: center;
+  -webkit-box-align: left;
 }
 
 .outer-container {
