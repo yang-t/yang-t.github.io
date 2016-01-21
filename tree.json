@@ -1,0 +1,413 @@
+{
+	"root": {
+		"children": [
+			{
+				"name": "Fusarium_oxysporum_Fo5176",
+				"length": 5.0E-9,
+				"height": 0.916411347
+			},
+			{
+				"children": [
+					{
+						"name": "Fusarium_fujikuroi",
+						"length": 5.0E-9,
+						"height": 0.91466693
+					},
+					{
+						"name": "Fusarium_verticillioides",
+						"length": 0.001743544,
+						"height": 0.912923391
+					}
+				],
+				"length": 0.001744417,
+				"height": 0.914666935
+			},
+			{
+				"children": [
+					{
+						"name": "Fusarium_oxysporum_f._sp._lycopersici",
+						"length": 0.00174562,
+						"height": 0.914665727
+					},
+					{
+						"children": [
+							{
+								"children": [
+									{
+										"name": "Nectria_haematococca_mpVI_77-13-4",
+										"length": 0.021993921,
+										"height": 0.852755969
+									},
+									{
+										"children": [
+											{
+												"children": [
+													{
+														"children": [
+															{
+																"children": [
+																	{
+																		"name": "Grosmannia_clavigera_kw1407",
+																		"length": 0.273926524,
+																		"height": 0.39705619299999995
+																	},
+																	{
+																		"children": [
+																			{
+																				"name": "Botrytis_cinerea_B05.10",
+																				"length": 0.140908361,
+																				"height": 0.0
+																			},
+																			{
+																				"name": "Sclerotinia_sclerotiorum_1980_UF-70",
+																				"length": 0.067824996,
+																				"height": 0.07308336500000001
+																			}
+																		],
+																		"length": 0.530074356,
+																		"height": 0.14090836100000004
+																	}
+																],
+																"length": 0.091674423,
+																"height": 0.670982717
+															},
+															{
+																"children": [
+																	{
+																		"children": [
+																			{
+																				"name": "Gaeumannomyces_graminis_var._tritici_R3-111a-1",
+																				"length": 0.179389215,
+																				"height": 0.38270836100000005
+																			},
+																			{
+																				"name": "Magnaporthe_oryzae_70-15",
+																				"length": 0.218193123,
+																				"height": 0.34390445300000005
+																			}
+																		],
+																		"length": 0.17175157,
+																		"height": 0.562097576
+																	},
+																	{
+																		"children": [
+																			{
+																				"children": [
+																					{
+																						"name": "Sordaria_macrospora_k-hell",
+																						"length": 0.015893253,
+																						"height": 0.523804076
+																					},
+																					{
+																						"children": [
+																							{
+																								"name": "Neurospora_crassa_OR74A",
+																								"length": 0.003343476,
+																								"height": 0.524846352
+																							},
+																							{
+																								"name": "Neurospora_tetrasperma_FGSC_2508",
+																								"length": 0.003334408,
+																								"height": 0.52485542
+																							}
+																						],
+																						"length": 0.011507501,
+																						"height": 0.528189828
+																					}
+																				],
+																				"length": 0.145092688,
+																				"height": 0.539697329
+																			},
+																			{
+																				"children": [
+																					{
+																						"name": "Podospora_anserina_S_mat+",
+																						"length": 0.135459539,
+																						"height": 0.515937372
+																					},
+																					{
+																						"children": [
+																							{
+																								"name": "Thielavia_terrestris_NRRL_8126",
+																								"length": 0.227307305,
+																								"height": 0.24063651100000005
+																							},
+																							{
+																								"children": [
+																									{
+																										"name": "Chaetomium_globosum_CBS_148.51",
+																										"length": 0.221625904,
+																										"height": 0.17909056599999995
+																									},
+																									{
+																										"name": "Myceliophthora_thermophila_ATCC_42464",
+																										"length": 0.129453655,
+																										"height": 0.27126281499999993
+																									}
+																								],
+																								"length": 0.067227346,
+																								"height": 0.40071647
+																							}
+																						],
+																						"length": 0.183453095,
+																						"height": 0.467943816
+																					}
+																				],
+																				"length": 0.033393106,
+																				"height": 0.651396911
+																			}
+																		],
+																		"length": 0.049059129,
+																		"height": 0.684790017
+																	}
+																],
+																"length": 0.028807994,
+																"height": 0.7338491460000001
+															}
+														],
+														"length": 0.035188587,
+														"height": 0.76265714
+													},
+													{
+														"children": [
+															{
+																"children": [
+																	{
+																		"name": "Verticillium_alfalfae_VaMs.102",
+																		"length": 0.001502094,
+																		"height": 0.678861752
+																	},
+																	{
+																		"name": "Verticillium_dahliae_VdLs.17",
+																		"length": 0.002152406,
+																		"height": 0.67821144
+																	}
+																],
+																"length": 0.077201486,
+																"height": 0.680363846
+															},
+															{
+																"children": [
+																	{
+																		"name": "Colletotrichum_gloeosporioides_Nara_gc5",
+																		"length": 0.042881818,
+																		"height": 0.631837984
+																	},
+																	{
+																		"children": [
+																			{
+																				"name": "Colletotrichum_higginsianum",
+																				"length": 0.010234845,
+																				"height": 0.638684197
+																			},
+																			{
+																				"name": "Colletotrichum_graminicola_M1.001",
+																				"length": 0.005290749,
+																				"height": 0.643628293
+																			}
+																		],
+																		"length": 0.02580076,
+																		"height": 0.648919042
+																	}
+																],
+																"length": 0.08284553,
+																"height": 0.674719802
+															}
+														],
+														"length": 0.040280395,
+														"height": 0.757565332
+													}
+												],
+												"length": 0.045701599,
+												"height": 0.797845727
+											},
+											{
+												"children": [
+													{
+														"children": [
+															{
+																"children": [
+																	{
+																		"name": "Ophiocordyceps_sinensis_isolate_56",
+																		"length": 0.003462952,
+																		"height": 0.7577120350000001
+																	},
+																	{
+																		"children": [
+																			{
+																				"name": "Ophiocordyceps_sinensis_isolate_25",
+																				"length": 0.003483485,
+																				"height": 0.757691497
+																			},
+																			{
+																				"name": "Ophiocordyceps_sinensis_isolate_70",
+																				"length": 0.006953349,
+																				"height": 0.754221633
+																			}
+																		],
+																		"length": 5.0E-9,
+																		"height": 0.761174982
+																	}
+																],
+																"length": 0.057515552,
+																"height": 0.761174987
+															},
+															{
+																"children": [
+																	{
+																		"name": "Claviceps_purpurea_20.1",
+																		"length": 0.088537881,
+																		"height": 0.71227822
+																	},
+																	{
+																		"children": [
+																			{
+																				"name": "Metarhizium_acridum_CQMa_102",
+																				"length": 0.016451104,
+																				"height": 0.73964923
+																			},
+																			{
+																				"name": "Metarhizium_anisopliae_ARSEF_23",
+																				"length": 0.041769524,
+																				"height": 0.71433081
+																			}
+																		],
+																		"length": 0.044715767,
+																		"height": 0.756100334
+																	}
+																],
+																"length": 0.017874438,
+																"height": 0.800816101
+															}
+														],
+														"length": 0.010925421,
+														"height": 0.818690539
+													},
+													{
+														"children": [
+															{
+																"children": [
+																	{
+																		"name": "Trichoderma_atroviride_IMI_206040",
+																		"length": 0.050713573,
+																		"height": 0.695772858
+																	},
+																	{
+																		"children": [
+																			{
+																				"name": "Trichoderma_virens_Gv29-8",
+																				"length": 0.029400261,
+																				"height": 0.682859765
+																			},
+																			{
+																				"name": "AAV80185_Trichoderma_reesei",
+																				"length": 0.023920623,
+																				"height": 0.688339403
+																			}
+																		],
+																		"length": 0.034226405,
+																		"height": 0.712260026
+																	}
+																],
+																"length": 0.077898961,
+																"height": 0.746486431
+															},
+															{
+																"children": [
+																	{
+																		"name": "Beauveria_bassiana_D1-5",
+																		"length": 0.01990996,
+																		"height": 0.675007608
+																	},
+																	{
+																		"children": [
+																			{
+																				"children": [
+																					{
+																						"name": "Cordyceps_militaris_CM01",
+																						"length": 0.0,
+																						"height": 0.675653907
+																					},
+																					{
+																						"name": "AGO64764.1_Cordyceps_militaris",
+																						"length": 0.0,
+																						"height": 0.675653907
+																					},
+																					{
+																						"name": "Trichoderma_reesei",
+																						"length": 0.0,
+																						"height": 0.675653907
+																					},
+																					{
+																						"name": "gAGN74837.1_Cordyceps_militaris",
+																						"length": 0.0,
+																						"height": 0.675653907
+																					},
+																					{
+																						"name": "AGO64762.1_Cordyceps_militaris",
+																						"length": 0.0,
+																						"height": 0.675653907
+																					}
+																				],
+																				"length": 5.0E-9,
+																				"height": 0.675653907
+																			},
+																			{
+																				"name": "AGN74838.1_Cordyceps_militaris",
+																				"length": 0.001861308,
+																				"height": 0.673792604
+																			}
+																		],
+																		"length": 0.019263656,
+																		"height": 0.675653912
+																	}
+																],
+																"length": 0.129467824,
+																"height": 0.6949175679999999
+															}
+														],
+														"length": 0.005230568,
+														"height": 0.824385392
+													}
+												],
+												"length": 0.013931366,
+												"height": 0.82961596
+											}
+										],
+										"length": 0.031202564,
+										"height": 0.843547326
+									}
+								],
+								"length": 0.028469371,
+								"height": 0.87474989
+							},
+							{
+								"children": [
+									{
+										"name": "Fusarium_pseudograminearum_CS3096",
+										"length": 0.001728996,
+										"height": 0.895035461
+									},
+									{
+										"name": "Fusarium_graminearum_PH-1",
+										"length": 5.0E-9,
+										"height": 0.896764452
+									}
+								],
+								"length": 0.006454804,
+								"height": 0.896764457
+							}
+						],
+						"length": 0.013192086,
+						"height": 0.903219261
+					}
+				],
+				"length": 5.0E-9,
+				"height": 0.916411347
+			}
+		],
+		"height": 0.916411352
+	},
+
+	"origin":"2013.34520547945",
+}
