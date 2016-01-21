@@ -40,10 +40,6 @@
 	<p>Contact me <a href="mailto:x@xx.nl">x<span class="at">@</span>xx.nl</a>.</p>
 	
 
-<p>This is a test tree</p>
-<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-<script src="//d3js.org/d3.v3.min.js"></script>
-
 <meta charset="utf-8">
 <style>
 
@@ -64,7 +60,8 @@
 }
 
 </style>
-
+<body>
+<script src="//d3js.org/d3.v3.min.js"></script>
 <script>
 
 var diameter = 960;
@@ -82,7 +79,7 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
 
-d3.json("/tree.json") {
+d3.json("/flare.json", function(error, root) {
   if (error) throw error;
 
   var nodes = tree.nodes(root),
