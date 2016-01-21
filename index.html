@@ -82,7 +82,7 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
 
-d3.json("/tree.json", function(error, root) {
+d3.json("tree.json", function(error, root) {
   if (error) throw error;
 
   var nodes = tree.nodes(root),
