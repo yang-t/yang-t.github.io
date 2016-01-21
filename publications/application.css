@@ -502,7 +502,7 @@ html, body {
 }
 
 body {
-  text-align: center;
+  text-align: left;
   display: flex;
   align-items: center;
   display: -webkit-box;
@@ -541,6 +541,10 @@ body {
 
 a, b {
   font-weight: 400;
+}
+
+c {
+  font-weight: 100;
 }
 
 a, a:visited {
