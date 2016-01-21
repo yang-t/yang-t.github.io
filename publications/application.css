@@ -502,11 +502,11 @@ html, body {
 }
 
 body {
-  text-align: left;
+  text-align: center;
   display: flex;
-  align-items: left;
+  align-items: center;
   display: -webkit-box;
-  -webkit-box-align: left;
+  -webkit-box-align: center;
 }
 
 .outer-container {
