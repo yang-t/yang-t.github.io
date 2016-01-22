@@ -546,7 +546,7 @@ a, b {
 a, a:visited {
   color: #23ccbe;
   text-decoration: none;
-  border-bottom: 1px solid #ededed;
+  /*border-bottom: 1px solid #ededed;*/
 }
 a:hover, a:focus {
   color: #01aa9c;
